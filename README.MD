@@ -3,7 +3,14 @@
 A Python-based CLI utility designed to provision WeMo smart devices. 
 - This tool handles the discovery, credential handling, and post-connection verification process, to connect WeMo devices to a wi-fi network without the need for the official WeMo/Belkin app.
 
+---
 
+## Gallery
+| Step 1: Network Config | Step 2: Device Discovery | Step 3: Verification |
+| :---: | :---: | :---: |
+| ![Config](https://raw.githubusercontent.com/honeybugserial/pywemo-netconfigutility/main/screenshots/pywemo-NetConfigUtil-01.png) | ![Discovery](https://raw.githubusercontent.com/honeybugserial/pywemo-netconfigutility/main/screenshots/pywemo-NetConfigUtil-02.png) | ![Verification](https://raw.githubusercontent.com/honeybugserial/pywemo-netconfigutility/main/screenshots/pywemo-NetConfigUtil-03.png) |
+
+---
 
 ## Features
 
