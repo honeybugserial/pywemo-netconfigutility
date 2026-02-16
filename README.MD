@@ -22,6 +22,14 @@ A Python-based CLI utility designed to provision WeMo smart devices.
 
 ---
 
+## Download
+
+If you prefer not to run from source or compile it yourself, you can download the pre-compiled Windows executable here:
+
+* **Executable**: [pywemo-NetConfigUtil.exe](https://github.com/honeybugserial/pywemo-netconfigutility/blob/main/compiled/pywemo-NetConfigUtil.exe)
+
+---
+
 ## Prerequisites
 
 * **Python 3.8+**
