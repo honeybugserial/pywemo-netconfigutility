@@ -40,7 +40,7 @@ The tool relies on the following libraries:
 
 1. **Clone the repository**:
    ```
-   git clone [https://github.com/honeybugserial/pywemo-netconfigutility](https://github.com/honeybugserial/pywemo-netconfigutility)
+   git clone https://github.com/honeybugserial/pywemo-netconfigutility
    cd pyWeMo-NetConfigUtil
    ```
 
@@ -94,7 +94,7 @@ On the first run, the tool creates a `config.json` file:
 ## Compiling
 Clone Repo:
    ```
-   git clone git clone [https://github.com/honeybugserial/pywemo-netconfigutility](https://github.com/honeybugserial/pywemo-netconfigutility)
+   git clone git clone https://github.com/honeybugserial/pywemo-netconfigutility
    cd pyWeMo-NetConfigUtil
    ```
 
