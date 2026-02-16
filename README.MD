@@ -1,5 +1,4 @@
 # pyWeMo Network Configuration Utility `v4.5.69`
-# pyWeMo-NetConfigUtil
 
 A Python-based CLI utility designed to provision WeMo smart devices. 
 - This tool handles the discovery, credential handling, and post-connection verification process, to connect WeMo devices to a wi-fi network without the need for the official WeMo/Belkin app.
